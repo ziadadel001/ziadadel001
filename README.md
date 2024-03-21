@@ -1,7 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-I'm a passionate backend developer with expertise in PHP, HTML, and CSS. I'm always eager to collaborate on projects that make a difference.
-
+"I'm a skilled backend developer with experience in <b>>PHP</b>, coupled with advanced skills in frontend technologies such as HTML and CSS. Additionally, I have some knowledge of JavaScript. I'm deeply committed to backend development using PHP either in its native form or with frameworks like Laravel, striving to deliver comprehensive solutions for projects.
 ## My Tech Stack:
 
 - **Backend:** PHP (native), MySQL
