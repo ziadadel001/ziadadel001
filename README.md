@@ -14,9 +14,9 @@ I'm a skilled backend developer with experience in **PHP**, coupled with advance
 - **Learning and Growing:** (Show your enthusiasm for continuous learning)
 
 ## 🚀 Projects:
-* **[LinkedIn](https://www.linkedin.com/)**
-* **[Medium](https://medium.com/)**
-* **[Stack Overflow](https://stackoverflow.com/)**
-* **[Facebook](https://www.facebook.com/)**
-* **[Twitter](https://twitter.com/)**
+<button onclick="window.open('https://www.linkedin.com/', '_blank')">LinkedIn</button>
+<button onclick="window.open('https://medium.com/', '_blank')">Medium</button>
+<button onclick="window.open('https://stackoverflow.com/', '_blank')">Stack Overflow</button>
+<button onclick="window.open('https://www.facebook.com/', '_blank')">Facebook</button>
+<button onclick="window.open('https://twitter.com/', '_blank')">Twitter</button>
 
