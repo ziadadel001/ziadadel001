@@ -1,49 +1,43 @@
+<!-- Animation CSS -->
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .fadeIn {
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  /* Add more animations as needed */
+</style>
+
+<!-- Header -->
 # Hi there, I'm ziad adel ! 👋
 
-I'm a skilled backend developer with experience in <b>PHP</b>, coupled with advanced skills in frontend technologies such as HTML and CSS. Additionally, I have some knowledge of JavaScript. I'm deeply committed to backend development using PHP either in its <b>native</b> form or with frameworks like <b>Laravel</b>, striving to deliver comprehensive solutions for projects.
+<!-- Introduction -->
+<div class="fadeIn">
+  I'm a skilled backend developer with experience in <b>PHP</b>, coupled with advanced skills in frontend technologies such as HTML and CSS. Additionally, I have some knowledge of JavaScript. I'm deeply committed to backend development using PHP either in its <b>native</b> form or with frameworks like <b>Laravel</b>, striving to deliver comprehensive solutions for projects.
+</div>
 
-## My Tech Stack:
-
-- **Backend:** PHP , OOP , MySQL , MVC , API 
-- **Frontend:** HTML, CSS
-- **Version Control:** Git
-- **Frameworks/Libraries:** Laravel
-
-## Projects:
-
-- [![zzzz](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)](Link to Repository 1)
-- [![Project Name 2](https://img.shields.io/badge/Project%20Name%202-Description%202-blue?style=for-the-badge)](Link to Repository 2)
-- [![Project Name 3](https://img.shields.io/badge/Project%20Name%203-Description%203-blue?style=for-the-badge)](Link to Repository 3)
-- ...
-
-## Time Spent Chart (Optional):
-
-(If you wish to include a time spent chart, you'll need to find a third-party service that generates it for you and embed the code they provide. GitHub does not provide this feature natively.)
-
+<!-- Skills and Interests -->
 ## ✨ Skills and Interests:
 
-- **Backend Development:** (List specific skills within PHP development)
-- **API Development:** (If applicable)
-- **Database Management:** (If applicable)
-- **Problem-Solving:** (Highlight your approach to tackling challenges)
-- **Open-Source Contributions:** (If you've made any)
+- **Backend Development:** PHP
+- **Frontend:** HTML, CSS
+- **Frameworks/Libraries:** Laravel
+- **API Development:**
+- **Database Management:**
+- **Version Control:** Git
+- **Problem-Solving:**
 - **Learning and Growing:** (Show your enthusiasm for continuous learning)
 
-## Ways to Connect:
-**ziadadel001/ziadadel001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Projects -->
+## Projects:
 
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="fadeIn">
+  - [![zzzz](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)](Link to Repository 1)
+  - [![Project Name 2](https://img.shields.io/badge/Project%20Name%202-Description%202-blue?style=for-the-badge)](Link to Repository 2)
+  - [![Project Name 3](https://img.shields.io/badge/Project%20Name%203-Description%203-blue?style=for-the-badge)](Link to Repository 3)
+  - ...
+</div>
