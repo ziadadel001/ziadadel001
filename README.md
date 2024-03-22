@@ -15,13 +15,8 @@ I'm a skilled backend developer with experience in **PHP**, coupled with advance
 
 ## 🚀 Projects:
 * **[LinkedIn](https://www.linkedin.com/)**
-  ![LinkedIn icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)
 * **[Medium](https://medium.com/)**
-  ![Medium icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg)
 * **[Stack Overflow](https://stackoverflow.com/)**
-  ![Stack Overflow icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)
 * **[Facebook](https://www.facebook.com/)**
-  ![Facebook icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)
 * **[Twitter](https://twitter.com/)**
-  ![Twitter icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)
 
