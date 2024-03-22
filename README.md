@@ -14,7 +14,14 @@ I'm a skilled backend developer with experience in **PHP**, coupled with advance
 - **Learning and Growing:** (Show your enthusiasm for continuous learning)
 
 ## 🚀 Projects:
+* **[LinkedIn](https://www.linkedin.com/)**
+  ![LinkedIn icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)
+* **[Medium](https://medium.com/)**
+  ![Medium icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg)
+* **[Stack Overflow](https://stackoverflow.com/)**
+  ![Stack Overflow icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg)
+* **[Facebook](https://www.facebook.com/)**
+  ![Facebook icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)
+* **[Twitter](https://twitter.com/)**
+  ![Twitter icon](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)
 
-<div>
-  [![zlooo](https://img.shields.io/badge/zlooo-Description%20Here-blue?style=for-the-badge)](Link to Repository)
-</div>
