@@ -1,16 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm ziad adel ! 👋
 
-"I'm a skilled backend developer with experience in <b>>PHP</b>, coupled with advanced skills in frontend technologies such as HTML and CSS. Additionally, I have some knowledge of JavaScript. I'm deeply committed to backend development using PHP either in its native form or with frameworks like Laravel, striving to deliver comprehensive solutions for projects.
+I'm a skilled backend developer with experience in <b>PHP</b>, coupled with advanced skills in frontend technologies such as HTML and CSS. Additionally, I have some knowledge of JavaScript. I'm deeply committed to backend development using PHP either in its <b>native</b> form or with frameworks like <b>Laravel</b>, striving to deliver comprehensive solutions for projects.
+
 ## My Tech Stack:
 
-- **Backend:** PHP (native), MySQL
+- **Backend:** PHP , OOP , MySQL , MVC , API 
 - **Frontend:** HTML, CSS
 - **Version Control:** Git
-- **Frameworks/Libraries:** (Optional, list those you're proficient in)
+- **Frameworks/Libraries:** Laravel
 
 ## Projects:
 
-- [![Project Name 1](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)](Link to Repository 1)
+- [![zzzz](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)](Link to Repository 1)
 - [![Project Name 2](https://img.shields.io/badge/Project%20Name%202-Description%202-blue?style=for-the-badge)](Link to Repository 2)
 - [![Project Name 3](https://img.shields.io/badge/Project%20Name%203-Description%203-blue?style=for-the-badge)](Link to Repository 3)
 - ...
@@ -29,10 +30,11 @@
 - **Learning and Growing:** (Show your enthusiasm for continuous learning)
 
 ## Ways to Connect:
-
-[![Gi
-
 **ziadadel001/ziadadel001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
