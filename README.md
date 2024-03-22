@@ -15,8 +15,12 @@ I'm a skilled backend developer with experience in **PHP**, coupled with advance
 
 ## 🚀 Projects:
 * **[LinkedIn](https://www.linkedin.com/)**      **[Medium](https://medium.com/)**     **[Stack Overflow](https://stackoverflow.com/)**
+* 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:ziadadel00120@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="ziadadel00120@gmail.com" height="30" width="40" /></a>
+    <a href="mailto:ziadadel00120@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="ziadadel00120@gmail.com" height="30" width="40" />
+    </a>
 </p>
+
 
