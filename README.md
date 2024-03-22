@@ -15,7 +15,5 @@ I'm a skilled backend developer with experience in **PHP**, coupled with advance
 
 ## 🚀 Projects:
 
-[![Project Name 1](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)](Link to Repository 1)
-[![Project Name 2](https://img.shields.io/badge/Project%20Name%202-Description%202-blue?style=for-the-badge)](Link to Repository 2)
-[![Project Name 3](https://img.shields.io/badge/Project%20Name%203-Description%203-blue?style=for-the-badge)](Link to Repository 3)
+[![Project Name 1](https://img.shields.io/badge/Project%20Name%201-Description%201-blue?style=for-the-badge)]https://github.com/ziadadel001/ziiia
 ...
