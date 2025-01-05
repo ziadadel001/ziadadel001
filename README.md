@@ -119,9 +119,4 @@
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
-<div align="center">
-
-![Random Cat](https://cataas.com/cat?width=300&height=300)
-
-</div>
 
