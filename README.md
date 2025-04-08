@@ -44,7 +44,6 @@
 <br>
 
 <!-- Project Management -->
-<img src='https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white' />
 </div>
 
 
