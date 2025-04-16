@@ -31,7 +31,6 @@
 <img src='https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white' />
 <img src='https://img.shields.io/badge/paypal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white' />
 <img src='https://img.shields.io/badge/stripe-%23646FF0.svg?style=for-the-badge&logo=stripe&logoColor=white' />
-<img src='https://img.shields.io/badge/paymob-%230082C9.svg?style=for-the-badge&logo=paymob&logoColor=white' />
 <img src='https://img.shields.io/badge/google%20auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white' />
 <img src='https://img.shields.io/badge/facebook%20auth-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white' />
 <img src='https://img.shields.io/badge/github%20auth-%23181717.svg?style=for-the-badge&logo=github&logoColor=white' />
