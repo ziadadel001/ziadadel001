@@ -15,7 +15,6 @@
 <div align="center">
 <!-- Programming Languages -->
 <img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' />
-<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
 <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
 <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
 <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
@@ -29,17 +28,10 @@
 
 <!-- APIs & Integrations -->
 <img src='https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white' />
-<img src='https://img.shields.io/badge/paypal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white' />
-<img src='https://img.shields.io/badge/stripe-%23646FF0.svg?style=for-the-badge&logo=stripe&logoColor=white' />
-<img src='https://img.shields.io/badge/google%20auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white' />
-<img src='https://img.shields.io/badge/facebook%20auth-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white' />
 <img src='https://img.shields.io/badge/github%20auth-%23181717.svg?style=for-the-badge&logo=github&logoColor=white' />
-<img src='https://img.shields.io/badge/smtp-%23FF6F61.svg?style=for-the-badge&logo=email&logoColor=white' />
 <br>
 
-<!-- Version Control -->
-<img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' />
-<img src='https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white' />
+
 <br>
 
 <!-- Project Management -->
@@ -64,24 +56,11 @@
 
 
 
-## 🏆 Github Stats
-<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadadel001&show_icons=true&count_private=true&&theme=default)
-
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ziadadel001&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-## Most Used Languages
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadadel001&show_icons=true&locale=en&layout=compact&theme=default" alt="ziadadel" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadadel001&theme=default" alt="ziadadel" />
-</div>
 
 
 ## ✍️ Today's Quote
