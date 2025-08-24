@@ -28,7 +28,6 @@
 
 <!-- APIs & Integrations -->
 <img src='https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white' />
-<img src='https://img.shields.io/badge/github%20auth-%23181717.svg?style=for-the-badge&logo=github&logoColor=white' />
 <br>
 
 
@@ -48,18 +47,6 @@
 - **Specialization**: Computer Science  
 - **Graduation Project**: Developed an educational platform using **Laravel**, integrating gamified learning features and a mentor booking system.
 
-### **Backend Development Course**
-- **Institution**: FCIS, Mansoura University  
-- **Years**: 2023 – 2024  
-- Completed a comprehensive program focused on **PHP**, **MySQL**, and **Laravel**.  
-- Gained practical experience in building dynamic web applications and mastering backend technologies.
-
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ziadadel001&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -70,13 +57,7 @@
 </div>
 
 
-<div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ziadadel001}/count.svg" /></p> 
-<br>
-</div>
- 
 
 
 ## 📬📥 Connect with Me
